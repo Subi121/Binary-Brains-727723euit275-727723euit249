@@ -1,0 +1,59 @@
+
+  body {
+    font-family: Arial, sans-serif;
+    background-image:"https://www.google.com/imgres?q=dog%20images&imgurl=https%3A%2F%2Fimg.etimg.com%2Fthumb%2Fwidth-1600%2Cheight-900%2Cimgsize-58734%2Cresizemode-75%2Cmsid-99053583%2Fnews%2Fnew-updates%2Fchatgpt-saves-dogs-life-gives-correct-diagnosis-that-even-vet-could-not-identify.jpg&imgrefurl=https%3A%2F%2Fm.economictimes.com%2Fnews%2Fnew-updates%2Fchatgpt-saves-dogs-life-gives-correct-diagnosis-that-even-vet-could-not-identify%2Farticleshow%2F99053583.cms&docid=HzH2p9TSROF4pM&tbnid=5H-yA8oUHYeA7M&vet=12ahUKEwjY96f3yeKIAxXh8zgGHf71LI44ChAzegQIVxAA..i&w=1600&h=900&hcb=2&ved=2ahUKEwjY96f3yeKIAxXh8zgGHf71LI44ChAzegQIVxAA";
+    
+  }
+  
+  header {
+    background-color: #3996de;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  #services button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #services button:hover {
+    background-color: #555;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+  }
+  
